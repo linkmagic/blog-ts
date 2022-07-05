@@ -1,0 +1,23 @@
+.container {
+    display: flex;
+    padding: 15px;
+    border: 2px solid teal;
+    margin: 15px 0;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.postCardContent {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    height: 50px;
+}
+
+.postBtnsContainer {
+    display: flex;
+}
+
+.postBtnsContainer > *:first-child {
+    margin-right: 6px;
+}

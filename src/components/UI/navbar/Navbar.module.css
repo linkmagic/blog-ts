@@ -1,0 +1,16 @@
+.navbar {
+  display: flex;
+  align-items: center;
+  width: 100vw;
+  height: 50px;
+  padding: 0 15px;
+  background-color: lightgray;
+}
+
+.navbar > * {
+  margin-right: 16px;
+}
+
+.navbarLinks > * {
+  margin-right: 15px;
+}

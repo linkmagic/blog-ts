@@ -1,0 +1,16 @@
+.mainContainer {
+    padding: 32px;
+}
+
+.appTitle {
+    text-align: center;
+    width: 100%;
+}
+
+.horisontalLine {
+    margin: 32px 0;
+}
+
+.toolbarBtns {
+    margin: 15px 0;
+}
